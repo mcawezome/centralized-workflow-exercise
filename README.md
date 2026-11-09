@@ -1,14 +1,7 @@
-# CodeRefinery recipe book
+# Recipe Book (Git Workflow Exercise)
 
-We use this repository to teach Git and also to collect
-some nice recipes.
+Class exercise · North Metropolitan TAFE · September 2024
 
+A group in-class activity based on CodeRefinery's recipe book lesson for learning Git project management. Classmates added recipes on their own branches and opened pull requests, which I reviewed and merged.
 
-## Categories
-
-- [salads](salads)
-- [soups](soups)
-- [pasta](pasta)
-- [mains](mains)
-- [sides](sides)
-- [desserts](desserts)
+Recipes: [salads](salads) · [soups](soups) · [pasta](pasta) · [mains](mains) · [sides](sides) · [desserts](desserts)
